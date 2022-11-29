@@ -1,11 +1,17 @@
 title:  # 站点标题
 description: | # 头像背后的信息（html格式），<br/>代表换行
   筱沫Shino<br/>
-  <a href="https://github.com/wu-kan" -->
+  <a href="https://github.com/yaolin6666" -->
     <i class="fa-brands fa-github"></i>
   </a>
   <a href="https://space.bilibili.com/166390020">
     <i class="fa-brands fa-bilibili"></i>
+  </a>
+    <a href="https://www.pixiv.net/users/32855909">
+    <i class="fa-brands fa-pixiv"></i>
+  </a>
+    <a href="https://twitter.com/yaolin6666">
+    <i class="fa-brands fa-twitter"></i>
   </a>
   <br/>
 url: https://yaolin6666.github.io/ # 你的域名，例如 https://wu-kan.github.io
