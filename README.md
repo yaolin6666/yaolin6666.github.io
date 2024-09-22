@@ -11,7 +11,6 @@
   - **ShangHai, China**
 - Site
   - **<https://yaolin6666.github.io/>**
-- [Resume]()
 
 <!-- .slide vertical=true -->
 
