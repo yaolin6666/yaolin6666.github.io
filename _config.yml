@@ -628,19 +628,19 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
           append_to_head:
             - | # 需要配置的变量见<https://merger.justhx.com/cn/docs/configure>
               <script>
-                var myname = "筱沫Shino";
+                var myname = "玖汐Kushio";
                 var profile = "i@wu-kan.cn";
                 var usage = "payment";
                 var wechat = "wxp://f2f0VhYAKFAI6uou4sW7dCIUtOSG_CTSeV5E8GxPuQzE2DA";
                 var tenpay = "https://i.qianbao.qq.com/wallet/sqrcode.htm?m=tenpay&f=wallet&a=1&ac=CAEQtZDkqwgY5LmRnAZCIDE1MDA0ZGQ4ZWMxNGIyZGQ0YjNhYjA2MzU2NmU5OGNj_xxx_sign&u=2239301685&n=%E7%B6%BE";
                 var alipay = "https://qr.alipay.com/fkx123106azxlbm0ekdsl37";
-                var paypal = "https://www.paypal.com/paypalme/yaolin6666";
+                # var paypal = "https://www.paypal.com/paypalme/yaolin6666";
                 var multilingual = false;
                 var branding = false;
                 var title = "选择你的支付方式";
                 var subtitle = "跟随进一步的指示以向" + myname + "付款";
                 var qrcodeapi = "https://www.zhihu.com/qrcode?url=";
-                var gravatar_url = "https://gravatar.loli.net/avatar/";
+                var gravatar_url = "https://avatars.githubusercontent.com/u/37007707?s=400&u=3becce64d7413bb1b8ffd3d09dc2130ecc0a1651&v=4";
               </script>
             - |
               <meta
