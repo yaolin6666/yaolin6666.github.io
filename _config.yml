@@ -634,7 +634,7 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
                 var wechat = "wxp://f2f0VhYAKFAI6uou4sW7dCIUtOSG_CTSeV5E8GxPuQzE2DA";
                 var tenpay = "https://i.qianbao.qq.com/wallet/sqrcode.htm?m=tenpay&f=wallet&a=1&ac=CAEQtZDkqwgY5LmRnAZCIDE1MDA0ZGQ4ZWMxNGIyZGQ0YjNhYjA2MzU2NmU5OGNj_xxx_sign&u=2239301685&n=%E7%B6%BE";
                 var alipay = "https://qr.alipay.com/fkx123106azxlbm0ekdsl37";
-                # var paypal = "https://www.paypal.com/paypalme/yaolin6666";
+                var paypal = "https://www.paypal.com/paypalme/yaolin6666";
                 var multilingual = false;
                 var branding = false;
                 var title = "选择你的支付方式";
