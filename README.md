@@ -21,4 +21,3 @@
 - E-mail:
   - **yaolin6666@gmail.com**
   - **cassiopeiaangel@vip.qq.com**
-<!-- .slide vertical=true -->
