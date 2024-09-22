@@ -8,7 +8,7 @@
 ## Contact
 
 - Address
-  - **JinShan District - ShangHai, China**
+  - **ShangHai, China**
 - Site
   - **<https://yaolin6666.github.io/>**
 - [Resume]()
@@ -17,9 +17,8 @@
 
 - Phone
   - **+86 18001718981**
-  - **+86 13301781673**
 - WeChat
-  - **Shino**
+  - **Kushio4957**
 - E-mail:
   - **yaolin6666@gmail.com**
   - **cassiopeiaangel@vip.qq.com**
