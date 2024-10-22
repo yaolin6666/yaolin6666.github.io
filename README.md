@@ -11,7 +11,7 @@
 - Address
   - **ShangHai, China**
 - Site
-  - **<https://yaolin6666.github.io/>**
+  - **<blog.kushio4967.com>**
 
 <!-- .slide vertical=true -->
 
