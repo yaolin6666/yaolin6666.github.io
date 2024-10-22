@@ -11,7 +11,7 @@
 - Address
   - **ShangHai, China**
 - Site
-  - **<blog.kushio4967.com>**
+  - **<https://blog.kushio4967.com/>**
 
 <!-- .slide vertical=true -->
 
